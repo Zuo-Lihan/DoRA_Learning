@@ -170,3 +170,11 @@ prediction: option2
 label: option2
 
 ---------------
+
+
+## My Training Experience (On 1 `A100-40GB`)
+![image](https://github.com/Zuo-Lihan/DoRA_Learning/assets/87290137/574d385a-fb59-4ef7-b45a-a953d5c9cd48)
+
+![image](https://github.com/Zuo-Lihan/DoRA_Learning/assets/87290137/efece0be-0bc3-4a41-b003-0b4f86c7f044)
+
+
