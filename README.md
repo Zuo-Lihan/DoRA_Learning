@@ -37,7 +37,10 @@ This repository is about my learning record of [DoRA](https://arxiv.org/pdf/2402
 1. Download the complete commonsense datasets from [here](https://github.com/AGI-Edgerunners/LLM-Adapters/tree/main/dataset);
 2. Download the commonsense 170k finetuning dataset from [commonsense_170k.json](https://github.com/AGI-Edgerunners/LLM-Adapters/blob/main/ft-training_set/commonsense_170k.json)
 
-### Result (Accuracy comparison of LoRA and DoRA for LLaMA3-8B on the commonsense reasoning tasks)
+### Result 
+
+* Accuracy comparison of LoRA and DoRA for LLaMA3-8B on the commonsense reasoning tasks.
+
 |Model|r|lr|alpha|batch_size|micro_batch_size|BoolQ|PIQA|SocialIQA|Hellaswag|WinoGrande|ARC-E|ARC-C|OpenBQA|Average|
 |-----|-|--|-----|----------|----------------|:----:|:----:|:---------:|:---------:|:----------:|:--------:|:-----:|:-------:|:-------:|
 |LLaMA3-8B_***L***oRA  (authors')| 32 | 1e-4 | 64 | 16 | 16 | 70.8 |	85.2 |79.9 | 91.7 |	84.3 | 84.2 | 71.2 | 79.0 |	80.8|
