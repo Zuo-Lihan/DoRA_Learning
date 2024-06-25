@@ -1,5 +1,14 @@
 # DoRA_Learning
-This repository is about my learning record of DoRA.
+This repository is about my learning record of [DoRA](https://arxiv.org/pdf/2402.09353).
+
+<div align=center>
+ 
+![image](https://github.com/Zuo-Lihan/DoRA_Learning/assets/87290137/66fc60ea-073b-4815-9000-01d06755c8a1)
+
+</div>
+
+## * **I am thinking about unperfect points:**
+  * 1. **`DoRA`** adds more parameters, $m$ to the GPU unit ===> So, *is there any way to cut some parameters-num down from the* $m$?
 
 ## Commonsense_reasoning
 
