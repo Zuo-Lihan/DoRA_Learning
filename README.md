@@ -39,7 +39,7 @@ This repository is about my learning record of [DoRA](https://arxiv.org/pdf/2402
 
 ### Result 
 
-* Accuracy comparison of LoRA and DoRA for LLaMA3-8B on the commonsense reasoning tasks.
+* Accuracy comparison of LoRA and DoRA for `LLaMA3-8B` on the commonsense reasoning tasks.
 
 |Model|r|lr|alpha|batch_size|micro_batch_size|BoolQ|PIQA|SocialIQA|Hellaswag|WinoGrande|ARC-E|ARC-C|OpenBQA|Average|
 |-----|-|--|-----|----------|----------------|:----:|:----:|:---------:|:---------:|:----------:|:--------:|:-----:|:-------:|:-------:|
