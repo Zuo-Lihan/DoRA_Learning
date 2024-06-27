@@ -44,7 +44,7 @@ This repository is about my learning record of [DoRA](https://arxiv.org/pdf/2402
 |Model|r|lr|alpha|batch_size|micro_batch_size|BoolQ|PIQA|SocialIQA|Hellaswag|WinoGrande|ARC-E|ARC-C|OpenBQA|Average|
 |-----|-|--|-----|----------|----------------|:----:|:----:|:---------:|:---------:|:----------:|:--------:|:-----:|:-------:|:-------:|
 |LLaMA3-8B_***L***oRA  (authors')| 32 | 1e-4 | 64 | 16 | 16 | 70.8 |	85.2 |79.9 | 91.7 |	84.3 | 84.2 | 71.2 | 79.0 |	80.8|
-|LLaMA3-8B_***L***oRA  (my running) | 32 | 1e-4 | 64 | 12 | 6 | / |	/ | / | / |	/ | / | / | / |	/ |
+|LLaMA3-8B_***L***oRA  (my running) | 32 | 1e-4 | 64 | 12 | 6 | 75.26 |	88.37 | 79.84 | 95.01 |	85.64 | 89.86 | 78.24 | 83.60 |	84.48 |
 |LLaMA3-8B_***D***oRA  (authors')	| 32 | 1e-4 | 64 |	16| 16 |74.6 |	**89.3** |	79.9 |	**95.5** |	85.6 |	90.5 |	**80.4** |	**85.8** |	85.2 |
 |LLaMA3-8B_***D***oRA  (my running)| 32 | 1e-4 | 64 | 12 | 6 |**75.7** | 88.7 | **80.2** | 95.3 | **86.3** | **90.6** | 80.0 | 85.6 | **85.3** |
 
